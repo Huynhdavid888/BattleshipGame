@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\BattleshipApp\Battleship\bin\Debug\Battleship.exe.config
+C:\Users\David\source\repos\BattleshipApp\Battleship\bin\Debug\Battleship.exe
+C:\Users\David\source\repos\BattleshipApp\Battleship\bin\Debug\Battleship.pdb
+C:\Users\David\source\repos\BattleshipApp\Battleship\obj\Debug\Battleship.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\BattleshipApp\Battleship\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\BattleshipApp\Battleship\obj\Debug\Battleship.exe
+C:\Users\David\source\repos\BattleshipApp\Battleship\obj\Debug\Battleship.pdb
+C:\Users\David\source\repos\BattleshipApp\Battleship\bin\Debug\BattleshipLibrary.dll
+C:\Users\David\source\repos\BattleshipApp\Battleship\bin\Debug\BattleshipLibrary.pdb
+C:\Users\David\source\repos\BattleshipApp\Battleship\obj\Debug\Battleship.csproj.CopyComplete
